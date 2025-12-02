@@ -1,2 +1,2 @@
 # reliableresources
-Hemeroteca de recursos multimedia y recursos fidedignos
+Hemeroteca de contenido multimedia y preservación de obras digitales
